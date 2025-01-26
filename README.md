@@ -329,3 +329,6 @@ $\fbox{500 000 руб}$
 
 $\fbox{70900 руб}$
 </details>
+
+## Перепись рубежки
+Возможные темы -- https://aalexuser.github.io/Software-engineering-economics
