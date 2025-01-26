@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: parts/1q.md
+- file: parts/2q.md
+- file: parts/3q.md
+- file: parts/4q.md
+- file: genindex
