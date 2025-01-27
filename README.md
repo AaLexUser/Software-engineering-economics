@@ -331,8 +331,8 @@ $\fbox{70900 руб}$
 </details>
 
 ## Перепись рубежки
-
+![Перепись рубежки](images/rubejka-perepes.jpeg)
 [![github pages](https://github.com/AaLexUser/Software-engineering-economics/actions/workflows/jupyterbook.yaml/badge.svg)](https://github.com/AaLexUser/Software-engineering-economics/actions/workflows/jupyterbook.yaml)
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://aalexuser.github.io/Software-engineering-economics)
 
-Возможные темы -- https://aalexuser.github.io/Software-engineering-economics
+Расписанные темы -- https://aalexuser.github.io/Software-engineering-economics
